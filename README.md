@@ -1,6 +1,6 @@
-#Javascript Exercises
+# Javascript Exercises
 
-###1. Calculator
+### 1. Calculator
 
 Define a function called calculator that receives an operation and two numbers and returns the result of the operation applied to the values passed as parameters
 
@@ -31,7 +31,7 @@ console.log(calculator('sum', 24, 237))
 ```
 
 
-###2. Calculator Plus
+### 2. Calculator Plus
 
 Define a function called calculator that receives an operation and several numbers (can be 2 or 10 or whatever) returns the result of the operation applied to the values passed as parameters
 
@@ -64,7 +64,7 @@ calculator('multiplicacion', 4, 5, 6, 8, 9)
 ```
 
 
-###3. getFullName
+### 3. getFullName
 
 Define a function called ​getFullName​ that receives a name and a surname and return the string "Your full name is " with the name & surname concatenated
 
@@ -83,7 +83,7 @@ console.log(getFullName('Jose', 'Barrera'))
 ```
 
 
-###4. isNumber
+### 4. isNumber
 
 Define a function called ​isNumber​ that receives a value and return true if the value received is a number
 
@@ -106,7 +106,7 @@ console.log(isNumber(45))
 ```
 
 
-###5. isString
+### 5. isString
 
 Define a function called ​isString​ that receives a value and return true if the value received is a string
 
@@ -130,7 +130,7 @@ console.log(isString('casa'))
 ```
 
 
-###6. isBoolean
+### 6. isBoolean
 
 Define a function called ​isBoolean​ that receives a value and return true if the value received is a boolean
 ```
@@ -158,7 +158,7 @@ isBoolean(9 === 7)
 ```
 
 
-###7. encodeWord
+### 7. encodeWord
 
 Define a function called ​encodeWord​ that receives a string and return the codified version of that string replacing the following characters:
 
@@ -183,7 +183,7 @@ encodeWord('LA CASA DE PEDRO ES GENIAL')
 
 // 
 
-###8. encodeWordPlus
+### 8. encodeWordPlus
 
 Improve the previous function to add a random number between 0 and 1000 every 7 characters
 
